@@ -1,2 +1,2 @@
 # git-practice
-tthis is practice for git class
+tthis is practice for git class.
